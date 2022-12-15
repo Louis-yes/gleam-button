@@ -138,6 +138,7 @@ function setActive(active: boolean) {
 }
 .gleam-button.disabled {
   background: var(--disabled);
+  box-shadow: none;
 }
 .gleam-button:focus:not(.disabled) {
   outline: 1px solid var(--primary-60);
