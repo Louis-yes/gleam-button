@@ -1,4 +1,4 @@
-# This is Louis code test for Gleam.
+# This is Louis' code test for Gleam.
 I've developed a vue component from a figma wireframe.
 
 ## Not included from the wireframes are:
@@ -18,7 +18,7 @@ I left these out because I didn't want to spend too long developing it out.
 
 
 ## If I did it again
-I would have asked up front what elements were most important, and focussed on those. I jumped in a little too eagerly.
+I would ask up front what was most important, and focussed on that. I jumped in a little too eagerly.
 
 
 ## Thanks for your time
